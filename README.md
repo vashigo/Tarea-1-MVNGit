@@ -6,7 +6,9 @@ numbers implemented with  Java, Maven and GITHUB
 ## EMPEZAR
 
 Copie el proyecto via git clone en cualquier diretorio para empezar a trabajar:
-$$ git clone [Link del proyecto]
+```
+git clone https://github.com/vashigo/Tarea-1-MVNGit.git
+```
 
 ### Prerequisitos
 
@@ -51,6 +53,6 @@ java -cp target/TareaMVNGit-1.0-SNAPSHOT.jar edu.escuelaing.arem.ASE.app.App
 
 ## Licencia
 
-This project is licensed under the GNU General Public License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details
 
 
