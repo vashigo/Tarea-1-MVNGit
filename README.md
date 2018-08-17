@@ -34,7 +34,7 @@ java -cp target/TareaMVNGit-1.0-SNAPSHOT.jar edu.escuelaing.arem.ASE.app.App
 ```
   le mostrara la media y desviación estandar del ejemplo de la Tabla 1 del ejercicio
   
-  [Tabla 1](https://ibb.co/gs4vse)
+  ![captura](https://user-images.githubusercontent.com/26507566/44247212-5ce6b000-a1a8-11e8-922c-fa705cb02cb7.PNG)
   
 
 ## Running the tests
