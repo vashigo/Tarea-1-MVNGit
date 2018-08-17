@@ -12,7 +12,7 @@ $$ git clone [Link del proyecto]
 
 Tener instalado Java jdk versiones 7+, Maven comandos y git
 
-### Installing
+### Instalando
 
 1. Ejecutar en terminal:
 
@@ -34,7 +34,7 @@ java -cp target/TareaMVNGit-1.0-SNAPSHOT.jar edu.escuelaing.arem.ASE.app.App
 ```
   le mostrara la media y desviación estandar del ejemplo de la Tabla 1 del ejercicio
   
-  https://ibb.co/gs4vse
+  [Tabla 1](https://ibb.co/gs4vse)
   
 
 ## Running the tests
