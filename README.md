@@ -40,13 +40,13 @@ java -cp target/TareaMVNGit-1.0-SNAPSHOT.jar edu.escuelaing.arem.ASE.app.App
   ![captura](https://user-images.githubusercontent.com/26507566/44247252-9d462e00-a1a8-11e8-9246-f4d6db77b244.PNG)
   
 
-## Built With
+## Built con
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [JAVA JDK 8](http://www.oracle.com/technetwork/java/javase/overview/index.html) - construcción
 
 
-## Autors
+## Autor
 
 * **ANDRES DAVID VASQUEZ IBAÑEZ** - *Initial work* - [VASHIGO](https://github.com/vashigo)
 
